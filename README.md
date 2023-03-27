@@ -2,22 +2,24 @@
 
 ✨Free Tools Enjoy And Share With Friend💗
 
-# Install Mathod
+# Install Mathod🔥
 
-  pkg install python
+       pkg install python
 
-  pkg install git
+       pkg install git
 
-  pip2 install requests
+       pip2 install requests
 
-  pip2 install mechanize
+       pip2 install mechanize
 
-  pip install requests
+       pip install requests
 
-  pip install mechanize
+       pip install mechanize
 
-  rm -rf ULTRA-GREEN
+       rm -rf GREEN-LOVER
 
- git clone --depth=1 https://github.com/FB-KING/ULTRA-GREEN.git
+       git clone https://github.com/Sh4won460/GREEN-LOVER
 
- cd ULTRA-GREEN
+       cd GREEN-LOVER
+
+       python GREEN-LOVER1.py
